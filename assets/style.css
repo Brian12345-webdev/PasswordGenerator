@@ -43,7 +43,7 @@ header {
 }
 
 .card-header::after {
-  content: " ";
+  content: "";
   display: block;
   width: 100%;
   background: #e7e9eb;
@@ -52,6 +52,9 @@ header {
 
 .card-body {
   min-height: 100px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 .card-footer {
@@ -72,7 +75,7 @@ header {
   clear: both;
 }
 
-.btn {
+.btn1 {
   border: none;
   background-color: hsl(360, 91%, 36%);
   border-radius: 25px;
@@ -87,6 +90,22 @@ header {
   text-align: center;
   cursor: pointer;
 }
+
+.btn2 {
+    border: none;
+    background-color: hsl(360, 91%, 36%);
+    border-radius: 25px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 6px 0px rgba(0, 0, 0, 0.2) 0px 1px 1px
+      0px;
+    color: hsl(0, 0%, 100%);
+    display: inline-block;
+    font-size: 22px;
+    line-height: 22px;
+    margin: 16px 16px 16px 20px;
+    padding: 14px 34px;
+    text-align: center;
+    cursor: pointer;
+  }
 
 button[disabled] {
   cursor: default;
