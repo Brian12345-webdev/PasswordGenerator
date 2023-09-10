@@ -15,6 +15,6 @@ THIS SITE contains a password generator when a user clicks the "generate passwor
 
 ## SITE ACCESS
 SITE:
-GITHUB:
+GITHUB: https://github.com/Brian12345-webdev/PasswordGenerator
 
 ![Alt text](image.png)
