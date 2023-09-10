@@ -2,9 +2,12 @@
 
 ## MOTIVATION
 
+AS A user I find a need for a password generator that will meet all strength criteria for a given password.
+
 ## REASON FOR PROJECT
 
 AS A user I WANT a password generator that fits certain requirements for password strength. As a user I WANT a password generator that uses numbers, upper and lowercase letters, and special characters to generate a random password.
+
 ## PROBLEM-AND-SOLUTION
 
 THE PROBLEM is as a user, I don't want to place much effort into creating a strong random password. THE SOLUTION is creating a password generator that creates a complex random password the fits all password strength requirements.
