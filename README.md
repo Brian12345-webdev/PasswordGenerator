@@ -2,7 +2,7 @@
 
 ## MOTIVATION
 
-AS A user I find a need for a password generator that will meet all strength criteria for a given password.
+AS AN employee with access to privileged data, I find a need for a password generator that will meet all strength criteria for a given password.
 
 ## REASON FOR PROJECT
 
