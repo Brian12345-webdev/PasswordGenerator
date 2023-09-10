@@ -14,7 +14,8 @@ THE PROBLEM is as a user, I don't want to place much effort into creating a stro
 THIS SITE contains a password generator when a user clicks the "generate password" button, a series of confirmatory prompts that initiate what character types are used in the password generated.
 
 ## SITE ACCESS
-SITE: https://brian12345-webdev.github.io/PasswordGenerator/
-GITHUB: https://github.com/Brian12345-webdev/PasswordGenerator
+#SITE: https://brian12345-webdev.github.io/PasswordGenerator/
+
+#GITHUB: https://github.com/Brian12345-webdev/PasswordGenerator
 
 ![Alt text](image.png)
